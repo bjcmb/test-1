@@ -1,3 +1,5 @@
 this is a test file to see how conflicts and pull requests are handled
 
 an edit by bjcmb user
+
+another change by bjcmb
